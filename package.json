@@ -1,0 +1,15 @@
+{
+  "name": "ionic-gulp-image-task",
+  "version": "1.0.0",
+  "description": "Minifies images in an ionic 2 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Fahrmair",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-image": "^2.0.0"
+  }
+}
