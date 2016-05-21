@@ -1,6 +1,6 @@
 {
   "name": "ionic-gulp-image-task",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Image copy and optimisation Gulp task to use in ionic2 projects",
   "main": "index.js",
   "scripts": {
