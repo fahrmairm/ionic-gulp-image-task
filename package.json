@@ -8,7 +8,7 @@
   },
   "author": "Michael Fahrmair",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "gulp": "^3.9.1",
     "gulp-image": "^2.0.0"
   },
