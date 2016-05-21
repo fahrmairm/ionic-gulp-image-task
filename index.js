@@ -28,5 +28,4 @@ return gulp.src(options.src)
         }]
     }))
     .pipe(gulp.dest(options.dest));
-});
 }
