@@ -1,6 +1,10 @@
 # Image Copy and Optimization Task
-Copy image resources to build directory and optimizes them.
+Copy image resources to build directory and optimizes them. This project is created in the style of the other ionic-gulp-* tasks used in the ``gulpfile.js`` of starter projects created with the ionic2 generator, e.g. (https://github.com/driftyco/ionic-gulp-tasks). It should be considered temporary until Ionic releases something official. It is published as npm module so that it can be easily included (and reapplied during beta changes) of the ionic2 build-tools. 
 
+## Installation
+```
+$ npm install --save-dev ionic-gulp-image-task
+```
 ## API
 
 ### imageCopyOptimize([options])

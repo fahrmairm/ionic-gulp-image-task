@@ -1,15 +1,19 @@
 {
   "name": "ionic-gulp-image-task",
   "version": "1.0.0",
-  "description": "Minifies images in an ionic 2 project",
+  "description": "Image copy and optimisation Gulp task to use in ionic2 projects",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Michael Fahrmair",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-image": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahrmairm/ionic-gulp-image-task.git"
   }
 }
